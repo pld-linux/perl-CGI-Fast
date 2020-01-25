@@ -4,7 +4,6 @@
 #
 %define		pdir	CGI
 %define		pnam	Fast
-%include	/usr/lib/rpm/macros.perl
 Summary:	CGI::Fast - CGI Interface for Fast CGI
 Name:		perl-CGI-Fast
 Version:	2.10
