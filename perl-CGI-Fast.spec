@@ -7,7 +7,7 @@
 Summary:	CGI::Fast - CGI Interface for Fast CGI
 Name:		perl-CGI-Fast
 Version:	2.10
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
