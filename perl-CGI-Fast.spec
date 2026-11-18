@@ -6,13 +6,13 @@
 %define		pnam	Fast
 Summary:	CGI::Fast - CGI Interface for Fast CGI
 Name:		perl-CGI-Fast
-Version:	2.10
-Release:	2
+Version:	2.17
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/CGI/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	7c1d93600b796b9a0eb6fa3558d3d0c1
+# Source0-md5:	ad1287d61c2691ecde633ce960e58c10
 URL:		http://search.cpan.org/dist/CGI-Fast/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
